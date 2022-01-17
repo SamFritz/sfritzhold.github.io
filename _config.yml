@@ -15,14 +15,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Melanie Walsh"
+title                    : "Samantha Fritz"
 title_separator          : "-"
 subtitle                 :  ""
-name                     : "Melanie Walsh"
-description              : "Assistant Teaching Professor at UW iSchool / Digital humanities, cultural analytics, American literature, & social media"
-url                      : melaniewalsh.org
+name                     : "Samantha Fritz"
+description              : "Project Manager, Information Professional"
+url                      : samfritz.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : melaniewalsh
+repository               : samfritz
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -31,7 +31,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : melaniewalsh
+    shortname            : samfritz
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : mellymeldubs
+  username               : samvfritz
 facebook:
   username               :
   app_id                 :
@@ -98,27 +98,27 @@ social:
 
 # Analytics
 analytics: 
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-86905362-1"
+    tracking_id          : ""
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Melanie Walsh"
-  avatar           : "/images/Melanie-Walsh-Bio-Photo.png"
-  bio              : "Assistant Teaching Professor at the University of Washington"
+  name             : "Sam Fritz"
+  avatar           : "/images/fritz-bio-pic.png"
+  bio              : "Project Manager, Archives Unleashed"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:melwalsh@uw.edu
+      url: mailto:svefritz@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mellymeldubs"
+      url: "https://twitter.com/samvfritz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/melaniewalsh/"
+      url: "https://github.com/samfritz/"
 
 
 # Site Footer
@@ -126,25 +126,19 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mellymeldubs"
+      url: "https://twitter.com/samvfritz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/melaniewalsh/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/samfritz/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:melwalsh@uw.edu
+      url: mailto:svefritz@gmail.com
     
 
 # Reading Files
