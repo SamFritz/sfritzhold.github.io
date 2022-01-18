@@ -1,16 +1,16 @@
 # /_data/authors.yml
 
-Melanie Walsh:
-  name        : "Melanie Walsh"
-  bio         : "Postdoctoral Associate in Information Science at Cornell"
-  avatar      : "/images/mwalsh-bio.png"
+Samantha Fritz:
+  name        : "Samantha Fritz"
+  bio         : "Project Manager, Archives Unleashed"
+  avatar      : "/images/fritz-bio-pic.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:melanie.walsh@cornell.edu"
+      url: "mailto:svefritz@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://melaniewalsh.org/"
+      url: "https://samfritz.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mellymeldubs"
+      url: "https://twitter.com/samvfritz"
