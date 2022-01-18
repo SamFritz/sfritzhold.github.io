@@ -47,3 +47,5 @@ Outside of the academic hub, I’m a martial arts instructor with 20 years of ex
 
 ---
 <!-- If you're interested, you can check out my [CV](/cv), [writing](/writing), or [digital projects](/digitalprojects). I enjoy connecting with people, so please feel free to reach out through [email](mailto:svefritz@gmail.com)! -->
+
+
