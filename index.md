@@ -37,8 +37,13 @@ feature_row:
 
 ---
 
-Hi, I'm Samantha Fritz, the Project Manager for [Archives Unleashed](harchivesunleashed.org). 
+Hi, I'm Samantha Fritz, and I am an information professional interested in literacy instruction, information access and usability, web archives, and community engagement. 
 
-If you're interested, you can check out my [CV](/cv), [writing](/writing), or [digital projects](/digitalprojects). I enjoy connecting with people, so please feel free to reach out through [email](mailto:svefritz@gmail.com)!
+Currently I'm the the Project Manager for [Archives Unleashed](harchivesunleashed.org), an [Andrew Mellon](https://mellon.org) funded project which aims to lower barriers of access to and use of web archives. 
+
+I'm proud to be an alumni of the University of Waterloo (Hon. B.A, History & English Literature) and Dalhousie University (Master of Library and Information Studies).
+
+Outside of the academic hub, I'm a martial arts instructor with 20 years experience, enjoy traveling and exploring new places with my trusty camera in tow, and love learning lindy hop dance styles.
 
 ---
+<!-- If you're interested, you can check out my [CV](/cv), [writing](/writing), or [digital projects](/digitalprojects). I enjoy connecting with people, so please feel free to reach out through [email](mailto:svefritz@gmail.com)! -->

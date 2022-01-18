@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
 Samantha Fritz:
-  name        : "Samantha Fritz"
+  name        : "Samantha Fritz, MLIS"
   bio         : "Project Manager, Archives Unleashed"
   avatar      : "/images/fritz-bio-pic.png"
   links:
@@ -14,3 +14,6 @@ Samantha Fritz:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/samvfritz"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/samvfritz/"

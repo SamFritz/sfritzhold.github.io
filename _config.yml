@@ -84,10 +84,6 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : samvfritz
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -106,9 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sam Fritz"
+  name             : "Samantha Fritz"
   avatar           : "/images/fritz-bio-pic.png"
   bio              : "Project Manager, Archives Unleashed"
+  location         : "Hamilton, Ontario"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,29 +113,28 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/samvfritz"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/samfritz/"
-
-
-# Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/samvfritz"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samfritz/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/samvfritz/"
+
+# Site Footer
+footer:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:svefritz@gmail.com
+      url: "mailto:svefritz@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://samfritz.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/samvfritz"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/samvfritz/"
     
 
 # Reading Files
