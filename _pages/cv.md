@@ -153,7 +153,6 @@ Scholarship
 3. Fritz, S., Milligan, I., Ruest, N. and Lin, J. (2020). **[Building community at distance: a datathon during COVID-19](https://www.emerald.com/insight/content/doi/10.1108/DLP-04-2020-0024/full/html)**, Digital Library Perspectives, Vol. 36 No. 4, pp. 415-428. https://doi.org/10.1108/DLP-04-2020-0024 
 4. J Pringle, S Fritz. (2019). **[The university brand and social media: Using data analytics to assess brand authenticity](https://scholar.google.ca/scholar?oi=bibs&cluster=721511020968969415&btnI=1&hl=en)**. Journal of Marketing for Higher Education
 
-
 ### Project-Based Materials
 1. Archives Unleashed. 2021. “Analyzing Web Archives with the Archives Unleashed Project.” November 2021. [Video Tutorial] [Slides (PDF)]
 2. Archives Unleashed. 2020. “Archives Unleashed Community Report (2017–2020).” [PDF]
@@ -168,14 +167,14 @@ Scholarship
 4. Adewoye, T., Han, X., Ruest, N., Milligan, I., Fritz, S., and Lin, J. **[Content-Based Exploration of Archival Images Using Neural Networks](https://dl.acm.org/doi/10.1145/3383583.3398577)**. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 (JCDL ’20). Association for Computing Machinery, New York, NY, USA, 489–490 (2020). [preprint](https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/37504/image-search.pdf?sequence=1&isAllowed=y) [poster demo](https://archivesunleashed.org/images/jcdl-2020-poster.pdf) [video summary](https://youtu.be/TQdZbasiI2I)
 5. Deschamps, R., Ruest,N., Lin, J., Fritz, S., and Milligan, I. (2019) .[The Archives Unleashed Notebook: Madlibs for Jumpstarting Scholarly Exploration of Web Archives](https://ieeexplore.ieee.org/document/8791210). Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00059. [preprint](http://hdl.handle.net/10315/36160)
 
-## Under Review
+### Under Review
 1. Ruest, N., Fritz, S., and Milligan, I. (2022). Creating Order from the Mess: Web Archive Derivative Datasets and Notebooks
 2. Holzmann, H., Ruest, N., Bailey, J., Dempsey, A.,  Fritz, S.,  Lee, P.,  and Milligan, I. (2022). ABCDEF - The 6 key features behind scalable, multi-tenant web archive processing with ARCH: Archive, Big Data, Concurrent, Distributed, Efficient, Flexible
 
-Policies, Protocols, Guidelines
-Code of Conduct, Archives Unleashed Project, 2019 
-Privacy Policy, Archives Unleashed Project, 2019 
-De-selection and Disposal Guidelines, Killiam Memorial Library, Dalhousie University, 2014  (co-draft presented to Killiam Library management )
+### Policies, Protocols, Guidelines
+1. **[Code of Conduct](https://archivesunleashed.org/about-project/#code-of-conduct)**, Archives Unleashed Project, 2019 
+2. **[Privacy Policy](https://archivesunleashed.org/about-project/#privacy-policy)**, Archives Unleashed Project, 2019 
+3. **De-selection and Disposal Guidelines**, Killiam Memorial Library, Dalhousie University, 2014  (co-draft presented to Killiam Library management )
 
 ### Conferences, Presentations, & Workshops
 
@@ -186,10 +185,36 @@ De-selection and Disposal Guidelines, Killiam Memorial Library, Dalhousie Univer
 5. Samantha Fritz. “Web Archives: A Doorway to Access and Usability.” Access Conference, September 2019, Edmonton, Alberta. [Slides]
 6. Samantha Fritz, “Web Archives with the Archives Unleashed Project,"Canadian Web Archiving Coalition Web Archives Webinar Series,January 2021, Online. [Slides] [Video Recording]
 
+Organized Conferences and Events
+---
+2022
+* (Upcoming) Co-Organizer, Archives Unleashed Cohort Program: Closing Event, 2022, Vancouver BC.
+2021
+* Co-Organizer, Archives Unleahed Cohort Program: Opening Event, 2021 [Online]
+2020
+* Co-Organizer, Archives Unleashed New York City: Web Archives Hackathon. Columbia University, New York, NY.  [moved online due to COVID-19]
+2019 
+* Co-Organizer, Archives Unleashed Washington DC: Web Archives Hackathon. George Washington University, Washington DC.
+* Co-Organizer,  Archives Unleashed Vancouver: Web Archives Hackathon. Simon Fraser University, Vancouver BC.
+2018 
+* Co-Organizer,  Archives Unleashed Toronto: Web Archives Hackathon. University of Toronto, Toronto ON
+2017
+* Schedule Codinator, Social Media and Society Conference
+2016
+* Schedule Codinator, Social Media and Society Conference
+2014
+* Presenter Liaison, Idea City, Zoomer Media
+* Communications Coordinator, Social Media and Society Conference
+* Co-Organizer, Islandora Camp CO (Denver, CO)
+* Co-Organizer, Islandora Camp GTA Scarborough, ON)
+2013
+* Volunteer, Social Media and Society Conference
+
 Continuing Education
 ---
 
 ### Conferences/Meetings Attended
+
 * 2021 - DFL Form/DigiPres, Online
 * 2021 - IFLA WLIC, Online
 * 2021 - IIPC’s Web Archiving Conference, Online
@@ -251,15 +276,11 @@ Leadership Experience + Service
 * 2012-2015 Double Dragon Martial Arts Studio, Black Belt Instructor
 * 2013 ACZISC Project, Social Media Consultant
 
-<!--Graphic Design 
---- -->
-
 Awards/Acknowledgments
 ---
 
 * 2021 ACRL DOLS Research & Publications Committee for the Top 5 post on COVID-19 Pandemic: A Year in Review
 * 2014 - Dalhousie University, School of Information Management, Information Technology Award
-
 
 Technical Skills
 ---
@@ -269,38 +290,27 @@ Operating Systems:
 * Microsoft Office Suite
 
 Survey Collection Applications
-* Survey Monkey
-* Survey Gizmo
-* Google forms
+* Survey Monkey, Survey Gizmo, Google Forms, JotForms
 
 Video Production
-* Camtasia
-* Vimeo
+* Camtasia, Vimeo
 
 Finance Systems:
-* Unit4
-* Concur
+* Unit4, Concur
 
 Graphic Design:
-* Canva
-* Info.gram
+* Canva, Info.gram
 
-Other: 
+Programming
+* Github, MarkDown, CSS,  HTML
+* Basic: Bash, Google Colab
+
+Data Analysis
+* Netlytic, Gephi, OpenRefine, Voyant
+
+Newsletter/Communication Engagement
 * Mailchimp
-* Github
-* Netlytic
 
 Website development and maintenance:
-
-- raw HTML & CSS, MD
-- static-site generators, e.g., Jekyll
-- content management systems, e.g., WordPress, WIX, Weebly
-
-<!--Software packages:
-
--	network analysis and visualization with Gephi
--	data visualization with Tableau
--	mapping with QGIS
--	data cleanup with OpenRefine
--	graphic design with Adobe Photoshop and Adobe Illustrator
--->
+- static-site generators, Basic: Jekyll
+- content management systems: WordPress, WIX, Weebly
