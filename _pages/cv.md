@@ -8,9 +8,9 @@ toc_icon: "star"
 toc_sticky: true
 ---
 
-Research Interests
----
-Digital Humanities, Web Archives, GLAM community, Community Engagement, 
+# Research Interests
+
+Digital Humanities, Research Support, Teaching and Learning, GLAM community, Community Engagement, 
 
 Work Experience
 ---
@@ -98,35 +98,33 @@ Teaching + Instructional Materials
 
 **Archives Unleashed Project**
 
-* Analyzing Web ARchives with the Archives Unleashed Project Workshop, 2021 https://youtu.be/76jlgyS-GWA 
-* Archives Unleashed Toolkit, 2020 https://youtu.be/b4zBD_h4OLY 
-* Archives Unleashed Quick Guide: Setting up Colab Notebooks, 2020 https://youtu.be/JDXQRUp_Tx4
-* Analyzing Web Archives with the Archives Unleashed Project. Continuing Education to Advance Web Archiving (CEDWARC), October, 2019, Washington, DC. [Overview] [Workshop Slides] (Co-Presented with Sarah McTavish)
-* Introducing the Archives Unleashed Project, 2019 https://youtu.be/nBwgM63MxY8 
-* Content-Based Exploration of Archival Images Using Neural Networks, 2020 https://youtu.be/TQdZbasiI2I (shared conference presentation)
-* Technology, Process, and Community to Improve Scholarly Access to Web Archives, 2020 https://youtu.be/TaVE1cU_EmQ (shared conference presentation)
+* Analyzing Web ARchives with the Archives Unleashed Project Workshop, 2021 [https://youtu.be/76jlgyS-GWA](https://youtu.be/76jlgyS-GWA )
+* Archives Unleashed Toolkit, 2020 [https://youtu.be/b4zBD_h4OLY](https://youtu.be/b4zBD_h4OLY) 
+* Archives Unleashed Quick Guide: Setting up Colab Notebooks, 2020 [https://youtu.be/JDXQRUp_Tx4](https://youtu.be/JDXQRUp_Tx4)
+* Analyzing Web Archives with the Archives Unleashed Project. Continuing Education to Advance Web Archiving (CEDWARC), October, 2019, Washington, DC. [Overview](https://docs.google.com/presentation/d/1InV_NbsWFC2hRH_xkJZsZeozmXHQ_DJenA7wjj8RdBw/edit#slide=id.g652dd174cf_0_0) [Workshop Slides](https://docs.google.com/presentation/d/1IfS6TaWveClL6J9vVO0KAhqqqRE92Zq4pNQZniGIp_w/edit#slide=id.p) (Co-Presented with Sarah McTavish)
+* Introducing the Archives Unleashed Project, 2019 [https://youtu.be/nBwgM63MxY8](https://youtu.be/nBwgM63MxY8) 
 
 **Netlytic, Ryerson University Social Media Lab**
 
 Getting Started with Netlytic Guide, 2016 
-* Netlytic Sample Assignments, 2016, available via Netlytic web site, PDF and Word
-	* Assignment 1: Text and Network Discovery 
-	* Assignment 2: The Learning Network: Class Hashtag
-	* Assignment 3: It’s All About the Data: Working with CSV Files
-	* Assignment 4: An Organizational Comparative Analysis
+* [Netlytic Sample Assignments](https://netlytic.org/home/?page_id=10849), 2016, available via Netlytic web site, PDF and Word
+	* Assignment 1: Text and Network Discovery [[PDF]](https://netlytic.org/home/wp-content/uploads/2016/06/Netlytic-SampleAssignment12016.pdf)
+	* Assignment 2: The Learning Network: Class Hashtag [[PDF]](https://netlytic.org/home/wp-content/uploads/2016/06/Netlytic-Sample-Assignment-3-2016.pdf)
+	* Assignment 3: It’s All About the Data: Working with CSV Files [[PDF]](https://netlytic.org/home/wp-content/uploads/2016/06/Netlytic-Sampl-Assignment-4-2016.pdf)
+	* Assignment 4: An Organizational Comparative Analysis [[PDF]](https://netlytic.org/home/wp-content/uploads/2016/06/Netlytic-Sample-Assignment-5-2016.pdf)
 * Introduction to Netlytic: Making Sense of Online Conversations, 2016, Ryerson University. [Workshop]
-* Netlytic Introduction, 2015 https://youtu.be/DgpMDDU2BGg 
-* Netlytic: Dataset Home Screen, 2015 https://youtu.be/YPnjEm-Ze8E 
-* Netlytic: Preview Screen, 2015 https://youtu.be/YbUx5hLrM3M 
-* Netlytic: Twitter, 2015  https://youtu.be/U4mLzxfAjTE 
-* Netlytic: Facebook, 2015 https://youtu.be/JptSa3nX950 
-* Netlytic: Instagram, 2015 https://youtu.be/AXVQv8mwaL4 
-* Netlytic: YouTube, 2015 https://youtu.be/76oLEUW8reA 
-* Netlytic: RSS Feeds, 2015 https://youtu.be/w-y3LiwBEg8 
-* Netlytic: Text Analysis (Part 1), 2015 https://youtu.be/FzZAWp-3n38 
-* Netlytic: Text Analysis (Part 2), 2015 https://youtu.be/U9_zd93z30k 
-* Netlytic: Network Analysis (Part 1), 2015 https://youtu.be/uxT1EIyq4Gs 
-* Netlytic: Network Analysis (Part 2), 2015 https://youtu.be/F6scVtMGKFE
+* Netlytic Introduction, 2015 [https://youtu.be/DgpMDDU2BGg](https://youtu.be/DgpMDDU2BGg) 
+* Netlytic: Dataset Home Screen, 2015 [https://youtu.be/YPnjEm-Ze8E](https://youtu.be/YPnjEm-Ze8E) 
+* Netlytic: Preview Screen, 2015 [https://youtu.be/YbUx5hLrM3M](https://youtu.be/YbUx5hLrM3M) 
+* Netlytic: Twitter, 2015  [https://youtu.be/U4mLzxfAjTE](https://youtu.be/U4mLzxfAjTE)
+* Netlytic: Facebook, 2015 [https://youtu.be/JptSa3nX950](https://youtu.be/JptSa3nX950)
+* Netlytic: Instagram, 2015 [https://youtu.be/AXVQv8mwaL4](https://youtu.be/AXVQv8mwaL4)
+* Netlytic: YouTube, 2015 [https://youtu.be/76oLEUW8reA](https://youtu.be/76oLEUW8reA)
+* Netlytic: RSS Feeds, 2015 [https://youtu.be/w-y3LiwBEg8](https://youtu.be/w-y3LiwBEg8)
+* Netlytic: Text Analysis (Part 1), 2015 [https://youtu.be/FzZAWp-3n38](https://youtu.be/FzZAWp-3n38)
+* Netlytic: Text Analysis (Part 2), 2015 [https://youtu.be/U9_zd93z30k](https://youtu.be/U9_zd93z30k)
+* Netlytic: Network Analysis (Part 1), 2015 [https://youtu.be/uxT1EIyq4Gs](https://youtu.be/uxT1EIyq4Gs)
+* Netlytic: Network Analysis (Part 2), 2015 [https://youtu.be/F6scVtMGKFE](https://youtu.be/F6scVtMGKFE)
 
 **Killiam Library, Dalhousie University**
 
@@ -136,13 +134,13 @@ Getting Started with Netlytic Guide, 2016
 
 *During the COVID pandemic I filmed, edited, and published video materials to support Global Martial Arts Academy students virtual curriculum. A total of 34 videos were produced.*
 
-* White Belt Resources Playlist, 2020  https://youtu.be/uAHQST4LtMY 
-* Yellow Belt Resource Playlist, 2020 https://youtu.be/L_roZ2wEt_4 
-* Orange Belt Resource Playlist, 2020 https://youtu.be/hWTaJn99b4k 
-* Green Belt Resource Playlist, 2020 https://youtu.be/2MhOfiGtSlQ 
-* Blue Belt Resource Playlist, 2020 https://youtu.be/LQ93pDcKCRA 
-* Brown Belt Resource Playlist, 2020 https://youtu.be/CLSRyFRKELM 
-* Red Belt Resource Playlist, 2020 https://youtu.be/mGubUnyFTeo 
+* White Belt Resources Playlist, 2020 [https://youtu.be/uAHQST4LtMY](https://youtu.be/uAHQST4LtMY)
+* Yellow Belt Resource Playlist, 2020 [https://youtu.be/L_roZ2wEt_4](https://youtu.be/L_roZ2wEt_4)
+* Orange Belt Resource Playlist, 2020 [https://youtu.be/hWTaJn99b4k](https://youtu.be/hWTaJn99b4k)
+* Green Belt Resource Playlist, 2020 [https://youtu.be/2MhOfiGtSlQ](https://youtu.be/2MhOfiGtSlQ)
+* Blue Belt Resource Playlist, 2020 [https://youtu.be/LQ93pDcKCRA](https://youtu.be/LQ93pDcKCRA)
+* Brown Belt Resource Playlist, 2020 [https://youtu.be/CLSRyFRKELM](https://youtu.be/CLSRyFRKELM)
+* Red Belt Resource Playlist, 2020 [https://youtu.be/mGubUnyFTeo](https://youtu.be/mGubUnyFTeo)
 
 Scholarship
 ---
@@ -154,27 +152,27 @@ Scholarship
 4. J Pringle, S Fritz. (2019). **[The university brand and social media: Using data analytics to assess brand authenticity](https://scholar.google.ca/scholar?oi=bibs&cluster=721511020968969415&btnI=1&hl=en)**. Journal of Marketing for Higher Education
 
 ### Project-Based Materials
-1. Archives Unleashed. 2021. “Analyzing Web Archives with the Archives Unleashed Project.” November 2021. [Video Tutorial] [Slides (PDF)]
-2. Archives Unleashed. 2020. “Archives Unleashed Community Report (2017–2020).” [PDF]
-3. Archives Unleashed. 2020. “Reflecting on Collaborations and Community at Archives Unleashed Datathons.” [Post] [PDF]
-4. Archives Unleashed. “AU NY Datathon (Online).” Online video clip. YouTube, 26-27 March 2020. https://youtu.be/Io6RvhqHfe4
-5. Ian Milligan, Nick Ruest, Jimmy Lin, and Samantha Fritz. “Archives Unleashed New York Datathon: Introduction.” Archives Unleashed NY Datathon, March 2020, Online. [Datathon Slides
+1. Archives Unleashed. 2021. “Analyzing Web Archives with the Archives Unleashed Project.” November 2021. [[Video Tutorial]](https://www.youtube.com/watch?v=76jlgyS-GWA) [[Slides (PDF)]](https://archivesunleashed.org/images/Publication-ToolkitWorkshopPresentation-2021.pdf)
+2. Archives Unleashed. 2020. “Archives Unleashed Community Report (2017–2020).” [[PDF]](https://archivesunleashed.org/images/au-community-report.pdf)
+3. Archives Unleashed. 2020. “Reflecting on Collaborations and Community at Archives Unleashed Datathons.” [[Post]](https://news.archivesunleashed.org/reflecting-on-collaborations-and-community-at-archives-unleashed-datathons-d2d4538db462) [[PDF]](https://archivesunleashed.org/images/au-datathon-report.pdf)
+4. Archives Unleashed. “AU NY Datathon (Online).” Online video clip. YouTube, 26-27 March 2020. [https://youtu.be/Io6RvhqHfe4](https://youtu.be/Io6RvhqHfe4)
+5. Ian Milligan, Nick Ruest, Jimmy Lin, and Samantha Fritz. “Archives Unleashed New York Datathon: Introduction.” Archives Unleashed NY Datathon, March 2020, Online. [[Datathon Slides]](https://archivesunleashed.org/images/datathon-ny-introslides.pdf)
 
 ### Peer-Reviewed Conference Publications
 1. Ruest, N., Lin, J., Milligan, I., and Fritz, S. (2020). **[The Archives Unleashed Project: Technology, Process, and Community to Improve Scholarly Access to Web Archives](https://dl.acm.org/doi/10.1145/3383583.3398513)**. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL ’20). Association for Computing Machinery, New York, NY, USA, 157–166 (2020) https://doi.org/10.1145/3383583.3398513 [preprint](https://arxiv.org/abs/2001.05399) [presentation](https://youtu.be/TaVE1cU_EmQ)
 2. Deschamps, R., Fritz, S., Lin, J., Milligan, I and Ruest, N. (2019). **[The Cost of a WARC: Analyzing Web Archives in the Cloud](https://ieeexplore.ieee.org/document/8791179)**. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00043. [preprint](http://hdl.handle.net/10315/36158)
-3. Milligan, I., Casemajor, N., Fritz, S., Lin, J., Ruest, N., Weber, M.S., and Worby, N. (2019). [**Building Community and Tools for Analyzing Web Archives through Datathons](https://ieeexplore.ieee.org/document/8791131)**. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00044. [preprint](http://hdl.handle.net/10315/36180)
-4. Adewoye, T., Han, X., Ruest, N., Milligan, I., Fritz, S., and Lin, J. **[Content-Based Exploration of Archival Images Using Neural Networks](https://dl.acm.org/doi/10.1145/3383583.3398577)**. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 (JCDL ’20). Association for Computing Machinery, New York, NY, USA, 489–490 (2020). [preprint](https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/37504/image-search.pdf?sequence=1&isAllowed=y) [poster demo](https://archivesunleashed.org/images/jcdl-2020-poster.pdf) [video summary](https://youtu.be/TQdZbasiI2I)
-5. Deschamps, R., Ruest,N., Lin, J., Fritz, S., and Milligan, I. (2019) .[The Archives Unleashed Notebook: Madlibs for Jumpstarting Scholarly Exploration of Web Archives](https://ieeexplore.ieee.org/document/8791210). Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00059. [preprint](http://hdl.handle.net/10315/36160)
+4. Adewoye, T., Han, X., Ruest, N., Milligan, I., Fritz, S., and Lin, J. Content-Based Exploration of Archival Images Using Neural Networks. In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020 (JCDL ’20). Association for Computing Machinery, New York, NY, USA, 489–490 (2020). [preprint](https://yorkspace.library.yorku.ca/xmlui/bitstream/handle/10315/37504/image-search.pdf?sequence=1&isAllowed=y) [poster demo](https://archivesunleashed.org/images/jcdl-2020-poster.pdf) [video summary](https://youtu.be/TQdZbasiI2I)
+5. Deschamps, R., Ruest,N., Lin, J., Fritz, S., and Milligan, I. (2019) .The Archives Unleashed Notebook: Madlibs for Jumpstarting Scholarly Exploration of Web Archives. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00059. preprint
+3. Milligan, I., Casemajor, N., Fritz, S., Lin, J., Ruest, N., Weber, M.S., and Worby, N. (2019). **[Building Community and Tools for Analyzing Web Archives through Datathons](https://ieeexplore.ieee.org/document/8791131)**. Proceedings of the ACM/IEEE Joint Conference on Digital Libraries, Vol. 19. doi: 10.1109/JCDL.2019.00044. [preprint](http://hdl.handle.net/10315/36180)
 
 ### Under Review
-1. Ruest, N., Fritz, S., and Milligan, I. (2022). Creating Order from the Mess: Web Archive Derivative Datasets and Notebooks
-2. Holzmann, H., Ruest, N., Bailey, J., Dempsey, A.,  Fritz, S.,  Lee, P.,  and Milligan, I. (2022). ABCDEF - The 6 key features behind scalable, multi-tenant web archive processing with ARCH: Archive, Big Data, Concurrent, Distributed, Efficient, Flexible
+1. Ruest, N., Fritz, S., and Milligan, I. (2022). **Creating Order from the Mess: Web Archive Derivative Datasets and Notebooks.**
+2. Holzmann, H., Ruest, N., Bailey, J., Dempsey, A.,  Fritz, S.,  Lee, P.,  and Milligan, I. (2022). **ABCDEF - The 6 key features behind scalable, multi-tenant web archive processing with ARCH: Archive, Big Data, Concurrent, Distributed, Efficient, Flexible.**
 
 ### Policies, Protocols, Guidelines
 1. **[Code of Conduct](https://archivesunleashed.org/about-project/#code-of-conduct)**, Archives Unleashed Project, 2019 
 2. **[Privacy Policy](https://archivesunleashed.org/about-project/#privacy-policy)**, Archives Unleashed Project, 2019 
-3. **De-selection and Disposal Guidelines**, Killiam Memorial Library, Dalhousie University, 2014  (co-draft presented to Killiam Library management )
+3. **De-selection and Disposal Guidelines**, Killiam Memorial Library, Dalhousie University, 2014 (co-draft presented to Killiam Library management)
 
 ### Conferences, Presentations, & Workshops
 
@@ -187,28 +185,18 @@ Scholarship
 
 Organized Conferences and Events
 ---
-2022
-* (Upcoming) Co-Organizer, Archives Unleashed Cohort Program: Closing Event, 2022, Vancouver BC.
-2021
-* Co-Organizer, Archives Unleahed Cohort Program: Opening Event, 2021 [Online]
-2020
-* Co-Organizer, Archives Unleashed New York City: Web Archives Hackathon. Columbia University, New York, NY.  [moved online due to COVID-19]
-2019 
-* Co-Organizer, Archives Unleashed Washington DC: Web Archives Hackathon. George Washington University, Washington DC.
-* Co-Organizer,  Archives Unleashed Vancouver: Web Archives Hackathon. Simon Fraser University, Vancouver BC.
-2018 
-* Co-Organizer,  Archives Unleashed Toronto: Web Archives Hackathon. University of Toronto, Toronto ON
-2017
-* Schedule Codinator, Social Media and Society Conference
-2016
-* Schedule Codinator, Social Media and Society Conference
-2014
-* Presenter Liaison, Idea City, Zoomer Media
-* Communications Coordinator, Social Media and Society Conference
-* Co-Organizer, Islandora Camp CO (Denver, CO)
-* Co-Organizer, Islandora Camp GTA Scarborough, ON)
-2013
-* Volunteer, Social Media and Society Conference
+
+| Year | Conference/Event |
+|---|---|
+| 2022 | (Upcoming) Co-Organizer, Archives Unleashed Cohort Program: Closing Event, 2022, Vancouver BC. |
+| 2021 | Co-Organizer, Archives Unleashed Cohort Program: Opening Event, 2021 [Online] |
+| 2020 | Co-Organizer, Archives Unleashed New York City: Web Archives Hackathon. Columbia University, New York, NY.  [moved online due to COVID-19] |
+| 2019 | Co-Organizer, Archives Unleashed Washington DC: Web Archives Hackathon. George Washington University, Washington DC.<br><br>Co-Organizer,  Archives Unleashed Vancouver: Web Archives Hackathon. Simon Fraser University, Vancouver BC. |
+| 2018 | Co-Organizer,  Archives Unleashed Toronto: Web Archives Hackathon. University of Toronto, Toronto ON |
+| 2017 | Schedule Coordinator, Social Media and Society Conference |
+| 2016 | Schedule Coordinator, Social Media and Society Conference |
+| 2014 | Presenter Liaison, Idea City, Zoomer Media<br><br>Communications Coordinator, Social Media and Society Conference<br><br>Co-Organizer, Islandora Camp CO (Denver, CO)<br><br>Co-Organizer, Islandora Camp GTA Scarborough, ON) |
+| 2013 | Volunteer, Social Media and Society Conference |
 
 Continuing Education
 ---
@@ -249,7 +237,6 @@ Continuing Education
 * Employee Safety Orientation, University of Waterloo, 2017
 * Workplace Violence Awareness (SO1081), University of Waterloo, 2017
 
-
 Leadership Experience + Service
 ---
 
@@ -285,32 +272,19 @@ Awards/Acknowledgments
 Technical Skills
 ---
 
-Operating Systems:
+**Operating Systems**
 * Microsoft + Apple OS
 * Microsoft Office Suite
 
-Survey Collection Applications
-* Survey Monkey, Survey Gizmo, Google Forms, JotForms
+**Software** 
+* Survey Collection Applications: Survey Monkey, Survey Gizmo, Google Forms, JotForms
+* Video Production: Camtasia, Vimeo
+* Graphic Design: Canva, Info.gram
+* Data Analysis Tools: Netlytic, OpenRefine, Voyant, Gephi
+* Newsletter: Mailchimp
+* Finance Systems: Unit4, Concur
 
-Video Production
-* Camtasia, Vimeo
-
-Finance Systems:
-* Unit4, Concur
-
-Graphic Design:
-* Canva, Info.gram
-
-Programming
-* Github, MarkDown, CSS,  HTML
-* Basic: Bash, Google Colab
-
-Data Analysis
-* Netlytic, Gephi, OpenRefine, Voyant
-
-Newsletter/Communication Engagement
-* Mailchimp
-
-Website development and maintenance:
+**Website development and maintenance**
 - static-site generators, Basic: Jekyll
 - content management systems: WordPress, WIX, Weebly
+- programming: Basic: Bash, Google Colab, GitHub, MarkDown, Basic:CSS, HTML
