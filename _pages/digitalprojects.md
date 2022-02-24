@@ -8,19 +8,6 @@ toc_icon: "star"
 toc_sticky: true
 ---
 
-UNDER CONSTUCTION
-
-<!-- 1. Post File [2018-09-30-Sample-Post.md] -->
----
-layout: post
-title:  A Sample Post
-date:   2018-09-30
-author: Mike the Blogger
-description: This is the one blog post to rule them all
-featured-image: my-awesome-photo.jpg
-featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
-categories: Side Hustle
----
 
 <!-- 2. post.hml; located in the _layouts directory -->
 <!-- some page content -->
