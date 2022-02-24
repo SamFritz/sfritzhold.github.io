@@ -8,7 +8,9 @@ toc_icon: "star"
 toc_sticky: true
 ---
 
-**Research Interests**: Digital Humanities, Research Support, Teaching and Learning, GLAM community, Community Engagement, 
+## **Research Interests**
+
+Digital Humanities, Research Support, Teaching and Learning, GLAM community, Community Engagement, 
 
 Work Experience
 ---
