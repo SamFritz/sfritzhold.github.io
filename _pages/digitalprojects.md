@@ -2,35 +2,31 @@
 title: Digital Projects
 permalink: /digitalprojects/
 layout: single
-toc: false
+toc: true
 toc_label: " "
 toc_icon: "star"
 toc_sticky: true
 ---
 
+**Event-based**
+---
 
-<!-- 2. post.hml; located in the _layouts directory -->
-<!-- some page content -->
-<header class="post-header">
-   <h1 class="post-title">{{ page.title }}</h1>
-   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
-   {% if page.author %} • {{ page.author }}{% endif %}
-   <!-- call the featured-post-image.html template file -->
-   {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
-</header>
-<!-- other page content -->
+Includes examples from my work with the Archives Unleashed Project in creating digital CFP marketing materials, welcoming signage, certificate of participation, attendee badges, and event schedules---
 
-<!-- 3. index.html, located in project's root directory -->
-<!-- some HTML content -->
-{% for post in site.posts limit:3 %}
-    <div>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <!-- call the featured-post-image.html template file -->
-        {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-    </div>   
-{% endfor %}
-<!-- some other HTML content -->
+
+**Research Infographics**
+---
+
+Includes personal research using Netlytic application to conduct basic analysis of tweets of event hashtags and then summarize through infographics.
+
+| **#SMSociety 2020** | **#WebArchiveWednesday** | **#Accesswww** |
+|:---:|---|---|
+|  | [[#WebArchiveWednesday]](/images/#WebArchiveWednesday.pdf) |  |
+
+#SMSociety 2020, #WebArchiveWednesday, #Accesswww
+
+Archives Unleashed Project: logo design, event-based infographics and marketing materials, media promo for software releases, visualizations for grant funding interim reports, advisory board communications, project timelines, project summary infographic, cohort program marketing, Save the date viz, Cloud summary, program postcard, publication summary, design and UX testing process visualizations
+
+
+Website Graphics: sponsor listing, event graphic banners, program buttons
+
