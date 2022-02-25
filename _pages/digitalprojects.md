@@ -21,7 +21,7 @@ Includes personal research using Netlytic application to conduct basic analysis 
 
 | **#SMSociety 2020** | **#WebArchiveWednesday** | **#Accesswww** |
 |:---:|---|---|
-|  | [[#WebArchiveWednesday]](/images/#WebArchiveWednesday.pdf) |  |
+|  | ![WebArchiveWednesday Infographic](/_site/images/#WebArchiveWednesday.png) |  |
 
 #SMSociety 2020, #WebArchiveWednesday, #Accesswww
 
