@@ -194,12 +194,12 @@ Organized Conferences and Events
 |---|---|
 | 2022 | (Upcoming) Co-Organizer, Archives Unleashed Cohort Program: Closing Event, 2022, Vancouver BC. |
 | 2021 | Co-Organizer, Archives Unleashed Cohort Program: Opening Event, 2021 [Online] |
-| 2020 | Co-Organizer, Archives Unleashed New York City: Web Archives Hackathon. Columbia University, New York, NY.  [moved online due to COVID-19] |
-| 2019 | Co-Organizer, Archives Unleashed Washington DC: Web Archives Hackathon. George Washington University, Washington DC.<br><br>Co-Organizer,  Archives Unleashed Vancouver: Web Archives Hackathon. Simon Fraser University, Vancouver BC. |
-| 2018 | Co-Organizer,  Archives Unleashed Toronto: Web Archives Hackathon. University of Toronto, Toronto ON |
+| 2020 | Co-Organizer, [Archives Unleashed New York City](https://archivesunleashed.org/new-york/): Web Archives Hackathon. Columbia University, New York, NY.  [moved online due to COVID-19] |
+| 2019 | Co-Organizer, [Archives Unleashed Washington DC](https://archivesunleashed.org/washington/): Web Archives Hackathon. George Washington University, Washington DC.<br><br>Co-Organizer,  [Archives Unleashed Vancouver](https://archivesunleashed.org/vancouver/): Web Archives Hackathon. Simon Fraser University, Vancouver BC. |
+| 2018 | Co-Organizer,  [Archives Unleashed Toronto](https://archivesunleashed.org/toronto/): Web Archives Hackathon. University of Toronto, Toronto ON |
 | 2017 | Schedule Coordinator, Social Media and Society Conference |
 | 2016 | Schedule Coordinator, Social Media and Society Conference |
-| 2014 | Presenter Liaison, Idea City, Zoomer Media<br><br>Communications Coordinator, Social Media and Society Conference<br><br>Co-Organizer, Islandora Camp CO (Denver, CO)<br><br>Co-Organizer, Islandora Camp GTA Scarborough, ON) |
+| 2014 | Presenter Liaison, Idea City, Zoomer Media<br><br>Communications Coordinator, Social Media and Society Conference<br><br>Co-Organizer, [Islandora Camp CO](https://www.islandora.ca/camps/co2014)(Denver, CO)<br><br>Co-Organizer, [Islandora Camp GTA](https://www.islandora.ca/camps/gta2014) Scarborough, ON) |
 | 2013 | Volunteer, Social Media and Society Conference |
 
 Continuing Education
@@ -267,7 +267,7 @@ Leadership Experience + Service
 * 2012-2015 Double Dragon Martial Arts Studio, Black Belt Instructor
 * 2013 ACZISC Project, Social Media Consultant
 
-Awards/Acknowledgments
+Awards/Accolades
 ---
 
 * 2021 ACRL DOLS Research & Publications Committee for the Top 5 post on COVID-19 Pandemic: A Year in Review
@@ -286,15 +286,9 @@ Technical Skills
 - programming: Basic: Bash, Google Colab, GitHub, MarkDown, Basic:CSS, HTML
 
 **Software** 
-* Survey Collection Applications: Survey Monkey, Survey Gizmo, Google Forms, JotForms
-* Video Production: Camtasia, Vimeo
-* Graphic Design: Canva, Info.gram
-* Data Analysis Tools: Netlytic, OpenRefine, Voyant, Gephi
-* Newsletter: Mailchimp
-* Finance Systems: Unit4, Concur
 
-| Type | Programs |
-|:---:|---|
+| **Type** | **Programs** |
+|---|---|
 | Survey Collection Applications | Survey Monkey, Survey Gizmo, Google Forms, JotForms |
 | Video Production | Camtasia, Vimeo |
 | Graphic Design | Canva, Info.gram |
