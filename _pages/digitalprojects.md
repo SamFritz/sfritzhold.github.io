@@ -33,8 +33,15 @@ Website Graphics: sponsor listing, event graphic banners, program buttons
 **Graduate Projects**
 ---
 
-The MLIS program I graduated from required students take a technology credit. During my semester in the Electronic Text Design (lovingly refered to by E-text), we put together a mini portfolio highlighting various skills building with HTML, XML, and CSS. These two sites have been recreated as static github pages to showcase early interactions with coding and design.
+During the course of my time at the School of Information Management at Dalhousie University, I participated in INFO 6620: Elextronic Text Design. Below is a portfolio of culminating course projects which demonstrate basic concepts of HTML and CSS design. These two sites have been recreated as static github pages to showcase early interactions with coding and design.
 
-* Alice in Wonderland
-* Typography
+The [INFO 6620 syllabus](https://www.yumpu.com/en/document/view/33597521/info-6620-electronic-text-design-course-outline-faculty-of-) available from 2009,  similar to course work produced in 2012.
 
+>**Typography**
+
+Designed to demonstrate html and CSS skills and the ability to create a functional attractive, and accesible design for the content of your essay.
+Alice Excerpt
+
+>**Alice in Wonderland**
+
+This project was designed to give participants experience in the application of the TEI XML encoding. The requirement of this project was to encode a document which was provided with TEI XML tags to ain an understanding of the principles and goals of text encoding and specifically of text encoding for the humanities.
